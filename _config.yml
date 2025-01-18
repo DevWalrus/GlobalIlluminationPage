@@ -28,7 +28,6 @@ theme: jekyll-theme-hacker
 
 domain: devwalrus.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://devwalrus.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /CSCI711      # place folder name if the site is served in a subfolder
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,6 +5,7 @@ Hello Professor, below are my submissions:
 
 1. [Assignment 1](/submissions/1.md)
 1. [Assignment 2](/submissions/2.md)
+1. [Assignment 3](/submissions/3.md)
 
 ## Discussions
 

@@ -12,7 +12,7 @@ title: Advanced Assignment - K-d Trees
 
 ## Times
 
-| Expierement                      | Time        |
+| Experiment                       | Time        |
 |----------------------------------|-------------|
 | Creating the k-d tree            | 897 ms      |
 | Rendering the k-d tree scene     | 3623 ms     |

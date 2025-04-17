@@ -10,6 +10,10 @@ Hello Professor, below are my submissions:
 1. [Assignment 5](/submissions/5.md)
 1. [Assignment 6](/submissions/6.md)
 
+## Advanced Assignments
+
+1. [K-d Trees](/advanced/kd.md)
+
 ## Discussions
 
 1. [Week 1](/discussions/1.md)

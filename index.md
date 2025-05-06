@@ -17,9 +17,9 @@ Hello Professor, below are my submissions:
 
 ## Semester Project
 
-1. [Midterm Presentation](/assets/presentations/Global%20Illum%20-%20Progress.pdf)
+1. <a href="{{site.baseurl}}/assets/presentations/Global%20Illum%20-%20Progress.pdf" target="_blank">Midterm Presentation</a>
 1. [Final Report](/final/report.md)
-1. [Final Presentation](/assets/presentations/Global%20Illum%20-%20Final.pdf)
+1. <a href="{{site.baseurl}}/assets/presentations/Global%20Illum%20-%20Final.pdf" target="_blank">Final Presentation</a>
 
 ## Discussions
 

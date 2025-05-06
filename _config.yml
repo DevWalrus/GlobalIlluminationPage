@@ -48,3 +48,12 @@ url: https://devwalrus.github.io  # the base hostname and protocol for your site
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown: kramdown
+kramdown:
+  # leave math in place
+  parse_block_html: true
+  # tell kramdown you plan to use MathJax
+  math_engine: mathjax
+  math_engine_opts:
+    preview: false

@@ -15,6 +15,12 @@ Hello Professor, below are my submissions:
 
 1. [K-d Trees](/advanced/kd.md)
 
+## Semester Project
+
+1. [Midterm Presentation](/assets/presentations/Global%20Illum%20-%20Progress.pdf)
+1. [Final Report](/final/report.md)
+1. [Final Presentation](/assets/presentations/Global%20Illum%20-%20Final.pdf)
+
 ## Discussions
 
 1. [Week 1](/discussions/1.md)
